@@ -49,7 +49,7 @@ son **header, sidebar, aside, main, footer, article, section, ul, ol, div**
     <nav class="videogames-nav">
 		<a href="#" class="videogames-nav__item">Foo</a>
 		<a href="#" class="videogames-nav__item">Foo</a>
-	</nav>
+    <nav>
 ...
  
 ``` 
@@ -123,7 +123,7 @@ entre ambos:
     <nav class="videogames-nav">
 		<a href="#" class="videogames-nav__item">Foo</a>
 		<a href="#" class="videogames-nav__item">Foo</a>
-	</nav>
+    </nav>
 ...
  
 ``` 
@@ -343,5 +343,3 @@ es usarse en JavaScript para apuntar a elementos en el DOM.
 
 [BEM CHEAT SHEET](https://9elements.com/bem-cheat-sheet/) - Listado de plantillas
 de ejemplo para los componentes más usuales como breadcrumb, button, cards...
- 
- https://github.com/chris-pearce/css-guidelines#state-hooks
